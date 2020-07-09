@@ -1,6 +1,10 @@
 # data_science_projects
 Meu portfólio de projetos de Data Science
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
+</p>
+
 # Matheus Marinho
 <sub> *Data Scientist* 
 
